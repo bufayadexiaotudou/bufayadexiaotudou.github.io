@@ -1,0 +1,7 @@
+﻿BOOK xianzhi: total=1053 empty=2 hitpages=579
+BOOK minzhengzhi_aa: total=199 empty=0 hitpages=131
+BOOK minzhengzhi_zl: total=180 empty=0 hitpages=130
+BOOK danganzhi: total=127 empty=0 hitpages=64
+BOOK diminglu: total=413 empty=3 hitpages=42
+BOOK yiwengushi18: total=173 empty=1 hitpages=47
+BOOK jicheng52: total=566 empty=5 hitpages=55

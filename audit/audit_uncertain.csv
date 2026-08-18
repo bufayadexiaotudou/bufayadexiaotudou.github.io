@@ -1,0 +1,12 @@
+﻿book,page,type,detail
+xianzhi,p-0346,uncertain_name,李阳川是否出现于1988年猕猴桃活动(OCR断句乱),待查原图
+xianzhi,p-0074,ocr_noise,杨氏五郎名字p-0074作"杨言中、杨厚中、杨明中、杨恪中、杨克中"vs p-0383"杨厚忠、杨言忠、杨明忠、杨恪忠、杨克忠"vs p-0036"杨学怀、杨明忠、杨言忠、杨恪忠、杨克忠",三版不一致
+xianzhi,p-0361,待核,李向荣仅见于"围歼杨开荣、李向荣、龚方谷股匪"一处,p-0383详案无此人,疑OCR或另股匪
+xianzhi,p-1010,uncertain_name,禁烟禁毒委员会副主任委员"李清磁"疑为李清玉(李蕴璞)或李清碧之OCR误
+minzhengzhi_aa,m-42;m-43,ocr_noise,民政科长名录表格OCR混乱(李德荣任职年份30.5一?);李正华1953.9-1954.3
+minzhengzhi_aa,m-184;m-185,ocr_noise,立功军人名录(1950-1957)OCR混乱(李昌基/李元学/李元清等名字不确定)
+xianzhi,p-1004,ocr_noise,"李家嘴人万明、万翔"疑为"李万明、李万翔"(红军干部),OCR不清
+xianzhi,p-0229,ocr_noise,县长名录表格OCR乱("李门"等无意义串)
+jicheng52,全册,ocr_unreadable,竖排古籍OCR几乎全部乱码(人名不可读),仅能统计页码
+xianzhi,p-0177,uncertain_name,李玉保(女?)赴延安党员名单,性别OCR不确定
+m-78/z-69,543名单,无姓名,乡保长调训543名无任何姓名记录;县志/档案志均未提供名册或处理名单
